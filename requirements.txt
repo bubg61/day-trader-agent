@@ -1,0 +1,11 @@
+pandas>=2.0
+numpy
+yfinance
+backtesting>=0.3.0
+ccxt
+scikit-learn
+matplotlib
+plotly
+ta
+python-dotenv
+alpaca-py
